@@ -64,3 +64,6 @@
 - More info on: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 - Follow the quck tutorial 
 
+
+## Continuos Deployment
+- More info on: https://devcenter.heroku.com/articles/github-integration
