@@ -67,3 +67,4 @@
 
 ## Continuos Deployment
 - More info on: https://devcenter.heroku.com/articles/github-integration
+    This article is very simple, take 7 minutes and uses agui. 
