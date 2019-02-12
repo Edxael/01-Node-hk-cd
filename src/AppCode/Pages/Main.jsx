@@ -5,7 +5,7 @@ class Main extends React.Component{
     return(
       <div>
         <h1>App C.D.</h1>
-        <p>Information </p>
+        <p>This is the text on the application...</p>
       </div>
     )
   }
